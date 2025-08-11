@@ -46,8 +46,8 @@ img/              # Menu item and background images
 
 ## Credits
 
-Web Developed by Elven Tan Kean Hong.
-Web Designed by Tey Sukorn.
+Web Developed by Elven Tan Kean Hong.<br/>
+Web Designed by Tey Sukorn.<br/>
 
-(C) 2025 Flame Restaurant.
+(C) 2025 Flame Restaurant.<br/>
 (C) 2025 Excess Tools Holdings Sdn. Bhd.
