@@ -1,4 +1,4 @@
-# Flame Restaurant 
+<img width="1598" height="254" alt="image" src="https://github.com/user-attachments/assets/e5b804e3-264c-43c5-8d38-492723ec1e48" /># Flame Restaurant 
 
 A simple web-based restaurant menu and ordering system.
 
@@ -43,6 +43,11 @@ img/              # Menu item and background images
 - Orders are stored in PHP sessions and will reset when the session expires or the server restarts.
 - No authentication is implemented.
 - Images for menu items should be placed in the `img/` folder with filenames matching the lowercase, spaceless item names (e.g., `friedrice.png`).
+
 ## Credits
 
-Developed by Excess Tools Holdings Sdn. Bhd.
+Web Developed by Elven Tan Kean Hong.
+Web Designed by Tey Sukorn.
+
+(C) 2025 Flame Restaurant.
+(C) 2025 Excess Tools Holdings Sdn. Bhd.
