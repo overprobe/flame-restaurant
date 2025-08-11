@@ -1,0 +1,65 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #fffde7; /* yellowish-white */
+  color: #2e7d32; /* green */
+  margin: 0;
+  padding: 40px 20px;
+}
+
+.admin-container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 40px;
+  color: #388e3c;
+}
+
+.order-card {
+  background-color: #f0f4c3;
+  border-radius: 12px;
+  padding: 20px 25px;
+  margin-bottom: 30px;
+  box-shadow: 0 3px 8px rgba(46, 125, 50, 0.15);
+}
+
+.order-card h2 {
+  margin: 0 0 15px;
+  font-weight: 700;
+  color: #33691e;
+}
+
+.order-time {
+  font-weight: 400;
+  font-size: 0.9em;
+  color: #558b2f;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 16px;
+}
+
+thead tr {
+  background-color: #aed581;
+  color: #1b5e20;
+}
+
+th, td {
+  padding: 10px 15px;
+  border: 1px solid #c5e1a5;
+  text-align: center;
+}
+
+tfoot td {
+  font-weight: 700;
+  background-color: #c5e1a5;
+  color: #2e7d32;
+}
+
+tfoot tr td:first-child {
+  text-align: right;
+}
