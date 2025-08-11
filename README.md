@@ -1,4 +1,4 @@
-<img width="1598" height="254" alt="image" src="https://github.com/user-attachments/assets/e5b804e3-264c-43c5-8d38-492723ec1e48" /># Flame Restaurant 
+# Flame Restaurant 
 
 A simple web-based restaurant menu and ordering system.
 
